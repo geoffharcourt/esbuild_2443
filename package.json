@@ -1,0 +1,8 @@
+{
+  "name": "commonlit",
+  "version": "1.0.0",
+  "main": "test.ts",
+  "dependencies": {
+    "esbuild": "^0.14.51"
+  }
+}
